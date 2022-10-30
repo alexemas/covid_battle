@@ -1,0 +1,5 @@
+enum BonusEnum
+{
+    DestroyAllBonus,
+    HealBonus,
+}
